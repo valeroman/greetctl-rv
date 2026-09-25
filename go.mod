@@ -1,4 +1,4 @@
-module github.com/valeroman/greetctl
+module github.com/valeroman/greetctl-rv
 
 go 1.27.1
 

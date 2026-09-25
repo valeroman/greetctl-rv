@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/fatih/color"
-	"github.com/valeroman/greetctl/internal/logx"
-	gr "github.com/valeroman/greetctl/pkg/greet"
+	"github.com/valeroman/greetctl-rv/internal/logx"
+	gr "github.com/valeroman/greetctl-rv/pkg/greet"
 )
 
 func main() {
